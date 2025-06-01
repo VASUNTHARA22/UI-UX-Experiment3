@@ -37,12 +37,7 @@ To develop and implement targeted design improvements based on the
 evaluation findings.
 To measure the impact of these changes on user behavior through
 rigorous A/B testing methodologies.
-•
-•
-•
-1.
-2.
-3.
+
 Improving UX is not only about aesthetic enhancements but fundamentally
 about creating more intuitive, efficient, and satisfying user journeys that drive
 engagement and business success. This integration of evaluation, redesign,
@@ -108,11 +103,7 @@ contextual guidance.
 Overall, App A excels in minimalist design and intuitive task creation but could
 improve in feature discoverability and navigational cues, especially for less
 experienced users.
-•
-•
-•
-•
-•
+
 APP B
 For App B, the heuristic evaluation revealed a different set of strengths and
 challenges:
@@ -148,14 +139,7 @@ workflows. The use of visual timelines and progress bars successfully
 mirrors real project tracking tools.
 User control and freedom: The website offers rich keyboard shortcuts
 and customizable views, empowering users to tailor their experience.
-•
-•
-•
-•
-•
-•
-•
-•
+
 Yet, the undo feature is limited, particularly in bulk actions, risking costly
 errors.
 Consistency and standards: Design elements such as menus and
@@ -265,10 +249,7 @@ detection.
 Real-time validation;
 unclear recovery
 processes.
-•
-•
-•
-•
+
 DESIGN CHANGES AND THEIR USABILITY HEURISTICS
 Improved Navigation and User Control (App A): To mitigate navigation
 friction caused by limited “back” controls and inconsistent gesture
@@ -306,10 +287,7 @@ Agile workflows enabled incremental delivery and continuous refinement
 based on developer feedback and ongoing user insights.
 This structured approach ensured that design theory was pragmatically
 embedded within each platform, transitioning beyond abstract
-•
-•
-•
-•
+
 recommendations to tangible enhancements that support intuitive, errorresistant, and consistent user experiences.
 A/B TESTING METHODOLOGY FOR EVALUATING UX
 IMPROVEMENTS
@@ -341,11 +319,7 @@ RESULTS AND IMPACT OF DESIGN CHANGES ON
 USER BEHAVIOUR
 The A/B testing revealed notable differences in user behaviour between the
 original (control) and modified (experimental) versions across all three
-•
-•
-•
-•
-•
+
 platforms. Most significantly, task completion rates improved by an average
 of 12%, indicating enhanced usability and clearer workflows. Error rates
 decreased substantially—by up to 18%—reflecting the effectiveness of refined
